@@ -23,4 +23,3 @@ def fourth_challenge
   }
 end
 
-epic_tragedy[:montague][:patriarch][:hero] = "Guy"
